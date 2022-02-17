@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaizokiNinja / Jackson Wagner 
-- 👀 I’m interested in videogame and animes
+- 👀 I’m interested in videogame , animes and computers 
 - 🌱 I’m currently learning  Dart , python , java , java scrip and php 
 - 📫 Tou can find me on email 97jackson.wagner@gmail.com
 
